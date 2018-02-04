@@ -1,0 +1,16 @@
+{
+  "name": "iotaseed",
+  "description": "Iota seed generator",
+  "version": "1.0.0",
+  "scripts": {
+    "about": "echo \"created by webdevelopland\""
+  },
+  "author": {
+    "name": "Web Developland",
+    "email": "webdevelopland@protonmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "rndmjs": "^1.1.1"
+  }
+}
